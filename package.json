@@ -1,0 +1,7 @@
+{
+  "name": "presale-contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.aa:HubbleTM/presale-contract.git",
+  "license": "MIT"
+}
